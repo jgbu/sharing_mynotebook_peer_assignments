@@ -1,6 +1,7 @@
-This repo organizes content to fulfill the IBM data science certification capstone course
-  lab codes
-  slide presentation
-  reviewer instruction
+This repo organizes content to fulfill the IBM data science certification capstone course:
+  
+  Lab notebooks (8) <enter>
+  Slide presentation (pdf)
+
 
   
